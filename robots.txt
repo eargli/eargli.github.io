@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eargli.github.io/NFB/sitemap.NFB.gz
